@@ -1,12 +1,12 @@
-# EstudaIA
+# SintetizaIA
 
-**EstudaIA** é um MVP acadêmico de uma Edtech que propõe uma aplicação web responsiva, com inteligência artificial, para auxiliar estudantes a organizarem e sintetizarem conteúdos educacionais. O projeto foi desenvolvido na sprint da disciplina _Gestão Ágil de Projetos e Produtos_ e tem como objetivo validar uma solução simples e direta: transformar textos extensos em materiais de revisão mais rápidos de consumir, como resumos estruturados, perguntas de fixação e tópicos-chave organizados.
+**SintetizaIA** é um MVP acadêmico de uma Edtech que propõe uma aplicação web responsiva, com inteligência artificial, para auxiliar estudantes a organizarem e sintetizarem conteúdos educacionais. O projeto foi desenvolvido na sprint da disciplina _Gestão Ágil de Projetos e Produtos_ e tem como objetivo validar uma solução simples e direta: transformar textos extensos em materiais de revisão mais rápidos de consumir, como resumos estruturados, perguntas de fixação e tópicos-chave organizados.
 
 > **Nota:** este repositório centraliza os **artefatos da entrega acadêmica** (canvas, backlogs, wireframes e apresentação), e não necessariamente o código-fonte final do produto.
 
 ## Sobre o projeto
 
-O **EstudaIA** nasceu da constatação de que estudantes do ensino médio, superior e de concursos enfrentam dificuldades para processar grandes volumes de texto. Muitas vezes, o tempo de estudo é consumido pela tentativa de filtrar o que é realmente importante, em vez de ser usado para revisar de forma direcionada.
+O **SintetizaIA** nasceu da constatação de que estudantes do ensino médio, superior e de concursos enfrentam dificuldades para processar grandes volumes de texto. Muitas vezes, o tempo de estudo é consumido pela tentativa de filtrar o que é realmente importante, em vez de ser usado para revisar de forma direcionada.
 
 A proposta deste MVP é aplicar práticas de gestão ágil de produtos — desde a descoberta do problema até a definição de escopo, backlog e protótipos da Sprint 1 — para validar uma solução acessível e centrada no estudante.
 
