@@ -51,10 +51,11 @@ A proposta de valor é permitir que o estudante produza materiais de revisão pe
 Este repositório reúne os artefatos da entrega acadêmica:
 
 - `canvas-url.txt` — link para o MVP Canvas e materiais da Lean Inception.
+- `showcase-url.txt` — link para o vídeo de showcase do projeto.
+- `showcase_video.mp4` — vídeo de apresentação do projeto.
 - `product-backlog.pdf` — backlog do produto priorizado.
 - `sprint-backlog.pdf` — backlog da Sprint 1.
 - `wireframes/` — wireframes e fluxos navegáveis das telas do MVP.
-- `video-apresentacao/` — vídeo de apresentação do projeto.
 
 ## Processo de trabalho
 
