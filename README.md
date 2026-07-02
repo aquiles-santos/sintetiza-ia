@@ -6,6 +6,8 @@
 
 ## Demo
 
+Clique na imagem para assistir a demo no YouTube.
+
 [![Preview do video do SintetizaIA](wireframes/sintetizaia-tela-04-desktop.png)](https://www.youtube.com/watch?v=WqCWwipHMxs7)
 
 ## Sobre o projeto
