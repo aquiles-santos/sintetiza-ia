@@ -4,6 +4,10 @@
 
 > **Nota:** este repositório centraliza os **artefatos da entrega acadêmica** (canvas, backlogs, wireframes e apresentação), e não necessariamente o código-fonte final do produto.
 
+## Demo
+
+[![Preview do video do SintetizaIA](wireframes/sintetizaia-tela-04-desktop.png)](https://www.youtube.com/watch?v=WqCWwipHMxs7)
+
 ## Sobre o projeto
 
 O **SintetizaIA** nasceu da constatação de que estudantes do ensino médio, superior e de concursos enfrentam dificuldades para processar grandes volumes de texto. Muitas vezes, o tempo de estudo é consumido pela tentativa de filtrar o que é realmente importante, em vez de ser usado para revisar de forma direcionada.
